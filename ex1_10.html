@@ -1,0 +1,84 @@
+<html>
+<head>
+    <title>Contact Form with Google Maps</title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <style type="text/css">
+        .map-container-7{
+            overflow: hidden;
+            padding-bottom: 56.25%;
+            position: relative;
+            height: 0;
+        }
+        .map-container-7 iframe{
+            left: 0;
+            top: 0;
+            height: 100%;
+            width: 100%;
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+<section class="section">
+
+    <!--Section heading-->
+    <h2 class="section-heading h1 pt-4 mb-5">Contact us</h2>
+
+    <div class="card">
+
+        <div class="card-body">
+
+            <!--Google map-->
+            <div id="map-container-google-12" class="z-depth-1-half map-container-7" style="height: 200px">
+                <iframe src="https://maps.google.com/maps?
+q=Miami&t=&z=13&ie=UTF8iwloc=&output=embed" frameborder="0" style="border: 0" allowfullscreen></iframe>
+            </div>
+
+            <div class="row">
+
+                <!--Grid column-->
+                <div class="col-md-6 mb-4">
+                    <form>
+
+                        <div class="md-form">
+                            <input type="text" id="contact-name" class="form-control">
+                            <label for="contact-name" class="">Your name</label>
+                        </div>
+
+                        <div class="md-form">
+                            <input type="text" id="contact-email" class="form-control">
+                            <label for="contact-email" class="">Your email</label>
+                        </div>
+
+                        <div class="md-form">
+                            <input type="text" id="contact-subject" class="form-control">
+                            <label for="contact-subject" class="">Subject</label>
+                        </div>
+                    </form>
+                </div>
+                <!--Grid column-->
+
+                <!--Grid column-->
+                <div class="col-md-6 mb-4">
+                    <div class="md-form primary-textarea">
+                        <textarea id="contact-message" class="md-textarea form-control mb-0" rows="5" style="padding-bottom: 1.2rem;"></textarea>
+                        <label for="contact-message">Your message</label>
+                    </div>
+                </div>
+                <!--Grid column-->
+
+                <!--Grid column-->
+                <div class="col-md-12">
+                    <div class="text-center">
+                        <a class="btn btn-mdb-color btn-block">Send Message</a>
+                    </div>
+                </div>
+                <!--Grid column-->
+            </div>
+        </div>
+    </div>
+</section>
+</body>
+</html>

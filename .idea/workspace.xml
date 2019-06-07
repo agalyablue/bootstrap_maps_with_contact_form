@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6377cc1d-5ed7-4c2a-a525-a8d91ae45ac7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex1_9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1_10.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -128,10 +127,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex1_9.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="808">
+            <state relative-caret-position="795">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex1_10.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1245">
               <caret line="83" column="7" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -159,6 +172,7 @@
         <option value="$PROJECT_DIR$/ex1_8.html" />
         <option value="$PROJECT_DIR$/ex1.html" />
         <option value="$PROJECT_DIR$/ex1_9.html" />
+        <option value="$PROJECT_DIR$/ex1_10.html" />
       </list>
     </option>
   </component>
@@ -216,7 +230,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ex1.html">
+  <component name="RunManager" selected="JavaScript Debug.ex1_10.html">
+    <configuration name="ex1_10.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap_maps_with_contact_form/ex1_10.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="ex1_5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap_maps_with_contact_form/ex1_5.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -225,6 +242,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.ex1_10.html" />
         <item itemvalue="JavaScript Debug.ex1.html" />
         <item itemvalue="JavaScript Debug.ex1_5.html" />
       </list>
@@ -240,12 +258,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559922840357</updated>
-      <workItem from="1559922842965" duration="14976000" />
+      <workItem from="1559922842965" duration="16002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14976000" />
+    <option name="totallyTimeSpent" value="16002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="935" y="23" width="920" height="977" extended-state="0" />
@@ -391,7 +409,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex1_9.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="808">
+        <state relative-caret-position="795">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex1_10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
           <caret line="83" column="7" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
